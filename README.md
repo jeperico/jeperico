@@ -7,3 +7,8 @@
 <a href="https://www.instagram.com/_jeperico_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="24px"/></a>
 <a href="https://github.com/jeperico" target="_blank"><img src="https://img.shields.io/github/followers/jeperico?style=social" height="24px"/></a>
 </p>
+  
+<div style="display: inline-flex">
+<img src="https://github-readme-stats.vercel.app/api?username=jeperico&theme=material-palenight&show_icons=true&hide_border=true&count_private=true"/>
+<img align="right" height="196rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeperico&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />
+</div>
