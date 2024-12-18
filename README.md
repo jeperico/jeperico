@@ -37,39 +37,18 @@
 
 
 <div style="display: inline-flex">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jeperico&show=prs_merged_percentage&show_icons=true&theme=material-palenight&hide_border=true&rank_icon=github&include_all_commits=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jeperico&show=prs_merged_percentage&show_icons=true&theme=material-palenight&hide_border=true&rank_icon=github&bg_color=00000000&include_all_commits=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      align="left"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api?username=jeperico&show_icons=true"
-      alt="Github Stats"
-    />
-  </picture>
-  
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jeperico&size_weight=0.5&count_weight=0.5&hide=php&layout=compact&theme=material-palenight&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jeperico&size_weight=0.5&count_weight=0.5&hide=php&layout=compact&theme=material-palenight&bg_color=00000000&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      align="right"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api?username=jeperico&show_icons=true"
-      alt="Most Used Languages"
-    />
-  </picture>
+  <img
+    align="left"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=jeperico&show=prs_merged_percentage&show_icons=true&theme=material-palenight&hide_border=true&rank_icon=github&include_all_commits=true"
+    alt="Github Stats"
+  />
+  <img
+    align="right"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeperico&size_weight=0.5&count_weight=0.5&hide=php&layout=compact&theme=material-palenight&hide_border=true"
+    alt="Most Used Languages"
+  />
 </div>
 
 <br/>
@@ -88,80 +67,40 @@
 
 <div style="display: inline-flex">
   <a href="https://github.com/jeperico/activities-manager-api-v2">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=activities-manager-api-v2&theme=material-palenight&hide_border=true"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=activities-manager-api-v2&theme=material-palenight&hide_border=true&bg_color=00000000"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img
-        align="left"
-        height="120"
-        src="https://github-readme-stats.vercel.app/api?username=jeperico&show_icons=true"
-        alt="Repo: activities-manager-api-v2"
-      />
-    </picture>
+    <img
+      align="left"
+      height="120"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=activities-manager-api-v2&theme=material-palenight&hide_border=true"
+      alt="Repo: activities-manager-api-v2"
+    />
   </a>
 
   <a href="https://github.com/jeperico/activities-manager-front-v2">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=activities-manager-front-v2&theme=material-palenight&hide_border=true"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=activities-manager-front-v2&theme=material-palenight&hide_border=true&bg_color=00000000"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img
-        align="right"
-        height="120"
-        src="https://github-readme-stats.vercel.app/api?username=jeperico&show_icons=true"
-        alt="Repo: activities-manager-front-v2"
-      />
-    </picture>
+    <img
+      align="right"
+      height="120"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=activities-manager-front-v2&theme=material-palenight&hide_border=true"
+      alt="Repo: activities-manager-front-v2"
+    />
   </a>
 </div>
 
 <div style="display: inline-flex">
   <a href="https://github.com/jeperico/CyberRain-Website">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=CyberRain-Website&theme=material-palenight&hide_border=true"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=CyberRain-Website&theme=material-palenight&hide_border=true&bg_color=00000000"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img
-        align="left"
-        height="120"
-        src="https://github-readme-stats.vercel.app/api?username=jeperico&show_icons=true"
-        alt="Repo: CyberRain-Website"
-      />
-    </picture>
+    <img
+      align="left"
+      height="120"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=CyberRain-Website&theme=material-palenight&hide_border=true"
+      alt="Repo: CyberRain-Website"
+    />
   </a>
   
   <a href="https://github.com/jeperico/dbt-sales">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=dbt-sales&theme=material-palenight&hide_border=true"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=dbt-sales&theme=material-palenight&hide_border=true&bg_color=00000000"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img
-        align="right"
-        height="120"
-        src="https://github-readme-stats.vercel.app/api?username=jeperico&show_icons=true"
-        alt="Repo: dbt-sales"
-      />
-    </picture>
+    <img
+      align="right"
+      height="120"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=dbt-sales&theme=material-palenight&hide_border=true"
+      alt="Repo: dbt-sales"
+    />
   </a>
 </div>
