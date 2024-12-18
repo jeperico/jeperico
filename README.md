@@ -71,3 +71,97 @@
     />
   </picture>
 </div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Main repos 📁
+
+<div style="display: inline-flex">
+  <a href="https://github.com/jeperico/activities-manager-api-v2">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=activities-manager-api-v2&theme=material-palenight&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=activities-manager-api-v2&theme=material-palenight&hide_border=true&bg_color=00000000"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        align="left"
+        height="120"
+        src="https://github-readme-stats.vercel.app/api?username=jeperico&show_icons=true"
+        alt="Repo: activities-manager-api-v2"
+      />
+    </picture>
+  </a>
+
+  <a href="https://github.com/jeperico/activities-manager-front-v2">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=activities-manager-front-v2&theme=material-palenight&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=activities-manager-front-v2&theme=material-palenight&hide_border=true&bg_color=00000000"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        align="right"
+        height="120"
+        src="https://github-readme-stats.vercel.app/api?username=jeperico&show_icons=true"
+        alt="Repo: activities-manager-front-v2"
+      />
+    </picture>
+  </a>
+</div>
+
+<div style="display: inline-flex">
+  <a href="https://github.com/jeperico/CyberRain-Website">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=CyberRain-Website&theme=material-palenight&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=CyberRain-Website&theme=material-palenight&hide_border=true&bg_color=00000000"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        align="left"
+        height="120"
+        src="https://github-readme-stats.vercel.app/api?username=jeperico&show_icons=true"
+        alt="Repo: CyberRain-Website"
+      />
+    </picture>
+  </a>
+  
+  <a href="https://github.com/jeperico/dbt-sales">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=dbt-sales&theme=material-palenight&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=dbt-sales&theme=material-palenight&hide_border=true&bg_color=00000000"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        align="right"
+        height="120"
+        src="https://github-readme-stats.vercel.app/api?username=jeperico&show_icons=true"
+        alt="Repo: dbt-sales"
+      />
+    </picture>
+  </a>
+</div>
