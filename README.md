@@ -48,7 +48,7 @@
     />
     <img
       align="left"
-      height="240"
+      height="200"
       src="https://github-readme-stats.vercel.app/api?username=jeperico&show_icons=true"
       alt="Github Stats"
     />
@@ -65,7 +65,7 @@
     />
     <img
       align="right"
-      height="240"
+      height="200"
       src="https://github-readme-stats.vercel.app/api?username=jeperico&show_icons=true"
       alt="Most Used Languages"
     />
