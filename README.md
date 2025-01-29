@@ -66,12 +66,12 @@
 ## Main repos 📁
 
 <div style="display: inline-flex">
-  <a href="https://github.com/jeperico/activities-manager-api-v2">
+  <a href="https://github.com/jeperico/trainer-scheduler">
     <img
       align="left"
       height="120"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=activities-manager-api-v2&theme=material-palenight&hide_border=true"
-      alt="Repo: activities-manager-api-v2"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=trainer-scheduler&theme=material-palenight&hide_border=true"
+      alt="Repo: trainer-scheduler"
     />
   </a>
 
@@ -86,12 +86,12 @@
 </div>
 
 <div style="display: inline-flex">
-  <a href="https://github.com/jeperico/CyberRain-Website">
+  <a href="https://github.com/jeperico/cyberrain-website">
     <img
       align="left"
       height="120"
       src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=CyberRain-Website&theme=material-palenight&hide_border=true"
-      alt="Repo: CyberRain-Website"
+      alt="Repo: cyberrain-website"
     />
   </a>
   
