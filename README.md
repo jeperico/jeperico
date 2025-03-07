@@ -1,15 +1,16 @@
 <img
   src="/assets/banner.png"
-  alt="Banner"
+  alt="Banner em preto e roxo, com uma foto centralizada, redes sociais e cargo a direita e nome a esquerda"
 />
 
 # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-<p align="left">
+<section>
   <a href="mailto:joaoeperico@gmail.com" target="_blank">
     <img
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       height="24px"
+      alt="Gmail Badge"
     />
   </a>
 
@@ -17,6 +18,7 @@
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       height="24px"
+      alt="LinkedIn Badge"
     />
   </a>
 
@@ -24,6 +26,7 @@
     <img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       height="24px"
+      alt="Instagram Badge"
     />
   </a>
 
@@ -31,12 +34,14 @@
     <img
       src="https://img.shields.io/github/followers/jeperico?style=social"
       height="24px"
+      alt="GitHub Follow Badge"
     />
   </a>
-</p>
+</section>
 
+<br/>
 
-<div style="display: inline-flex">
+<section style="display: flex; gap: 20px;">
   <img
     align="left"
     height="200"
@@ -49,7 +54,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeperico&size_weight=0.5&count_weight=0.5&hide=php&layout=compact&theme=material-palenight&hide_border=true"
     alt="Most Used Languages"
   />
-</div>
+</section>
 
 <br/>
 <br/>
@@ -61,11 +66,10 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
-## Template repos 📋
+<h2>Template Repos 📋</h2>
 
-<div>
+<div style="display: flex; gap: 20px;">
   <a href="https://github.com/jeperico/template-nextjs">
     <img
       height="120"
@@ -73,7 +77,7 @@
       alt="Repo: template-nextjs"
     />
   </a>
-  
+
   <a href="https://github.com/jeperico/template-django">
     <img
       height="120"
@@ -83,9 +87,10 @@
   </a>
 </div>
 
-## Main repos 📁
 
-<div>
+<h2>Main Repos 📁</h2>
+
+<div style="display: flex; gap: 20px;">
   <a href="https://github.com/jeperico/trainer-scheduler">
     <img
       height="120"
@@ -103,7 +108,7 @@
   </a>
 </div>
 
-<div>
+<div style="display: flex; gap: 20px;">
   <a href="https://github.com/jeperico/whatsapp-sticker-api">
     <img
       height="120"
