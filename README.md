@@ -65,10 +65,9 @@
 
 ## Main repos 📁
 
-<div style="display: inline-flex">
+<div>
   <a href="https://github.com/jeperico/trainer-scheduler">
     <img
-      align="left"
       height="120"
       src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=trainer-scheduler&theme=material-palenight&hide_border=true"
       alt="Repo: trainer-scheduler"
@@ -77,7 +76,6 @@
 
   <a href="https://github.com/jeperico/activities-manager-front-v2">
     <img
-      align="right"
       height="120"
       src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=activities-manager-front-v2&theme=material-palenight&hide_border=true"
       alt="Repo: activities-manager-front-v2"
@@ -85,22 +83,22 @@
   </a>
 </div>
 
-<div style="display: inline-flex">
-  <a href="https://github.com/jeperico/cyberrain-website">
+## Template repos 📋
+
+<div>
+  <a href="https://github.com/jeperico/template-nextjs">
     <img
-      align="left"
       height="120"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=CyberRain-Website&theme=material-palenight&hide_border=true"
-      alt="Repo: cyberrain-website"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=template-nextjs&theme=material-palenight&hide_border=true"
+      alt="Repo: template-nextjs"
     />
   </a>
   
-  <a href="https://github.com/jeperico/dbt-sales">
+  <a href="https://github.com/jeperico/template-django">
     <img
-      align="right"
       height="120"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=dbt-sales&theme=material-palenight&hide_border=true"
-      alt="Repo: dbt-sales"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=template-django&theme=material-palenight&hide_border=true"
+      alt="Repo: template-django"
     />
   </a>
 </div>
