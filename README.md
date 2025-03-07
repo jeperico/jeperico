@@ -63,6 +63,26 @@
 <br/>
 <br/>
 
+## Template repos 📋
+
+<div>
+  <a href="https://github.com/jeperico/template-nextjs">
+    <img
+      height="120"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=template-nextjs&theme=material-palenight&hide_border=true"
+      alt="Repo: template-nextjs"
+    />
+  </a>
+  
+  <a href="https://github.com/jeperico/template-django">
+    <img
+      height="120"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=template-django&theme=material-palenight&hide_border=true"
+      alt="Repo: template-django"
+    />
+  </a>
+</div>
+
 ## Main repos 📁
 
 <div>
@@ -83,22 +103,20 @@
   </a>
 </div>
 
-## Template repos 📋
-
 <div>
-  <a href="https://github.com/jeperico/template-nextjs">
+  <a href="https://github.com/jeperico/whatsapp-sticker-api">
     <img
       height="120"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=template-nextjs&theme=material-palenight&hide_border=true"
-      alt="Repo: template-nextjs"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=whatsapp-sticker-api&theme=material-palenight&hide_border=true"
+      alt="Repo: whatsapp-sticker-api"
     />
   </a>
-  
-  <a href="https://github.com/jeperico/template-django">
+
+  <a href="https://github.com/jeperico/dbt-sales">
     <img
       height="120"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=template-django&theme=material-palenight&hide_border=true"
-      alt="Repo: template-django"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=dbt-sales&theme=material-palenight&hide_border=true"
+      alt="Repo: dbt-sales"
     />
   </a>
 </div>
