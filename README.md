@@ -41,30 +41,41 @@
 
 <br/>
 
-<section style="display: flex; gap: 20px;">
+<h3>🔥 Streak Stats</h3>
+  
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img
-    align="left"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=jeperico&show=prs_merged_percentage&show_icons=true&theme=material-palenight&hide_border=true&rank_icon=github&include_all_commits=true"
+    height="220"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=jeperico&theme=material-palenight&hide_border=true&short_numbers=true"
+    alt="Stats Streak"
+  />
+</a>
+
+<h3>💻 GitHub Profile Stats</h3>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img
+    height="220"
+    src="https://github-readme-stats.vercel.app/api?username=jeperico&show_icons=true&theme=material-palenight&hide_border=true&rank_icon=github&include_all_commits=true"
     alt="Github Stats"
   />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img
-    align="right"
-    height="200"
+    height="220"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeperico&size_weight=0.5&count_weight=0.5&hide=php&layout=compact&theme=material-palenight&hide_border=true"
     alt="Most Used Languages"
   />
-</section>
+</a>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<h3>📊 GitHub Activity Graph</h3>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img
+    alt="Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph/?username=jeperico&theme=material-palenight&point=FFFFFF&hide_border=true"
+  />
+</a>
 <br/>
 
 <h2>Template Repos 📋</h2>
