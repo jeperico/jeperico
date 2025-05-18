@@ -3,7 +3,15 @@
   alt="Banner em preto e roxo, com uma foto centralizada, redes sociais e cargo a direita e nome a esquerda"
 />
 
-# Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=3500&pause=1000&color=C590E8&vCenter=true&width=600&lines=Hello!!!;My+name+is+Jo%C3%A3o+Eduardo+P%C3%A9rico!;I'm+a+web+developer!"
+      alt="Typing SVG"
+      />
+  </a>
+</h1>
 
 <section>
   <a href="mailto:joaoeperico@gmail.com" target="_blank">
@@ -39,37 +47,39 @@
   </a>
 </section>
 
-<br/>
+<details open>
+  <summary><h2>💻 GitHub Profile Stats:</h2></summary>
 
-### 💻 GitHub Profile Stats:
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api?username=jeperico&show_icons=true&theme=material-palenight&hide_border=true&rank_icon=github&include_all_commits=true"
+      alt="Github Stats"
+    />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img
+      height="170"
+      src="https://github-readme-streak-stats-eight.vercel.app/?user=jeperico&theme=material-palenight&hide_border=true&short_numbers=true"
+      alt="Stats Streak"
+    />
+  </a>
+</details>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=jeperico&show_icons=true&theme=material-palenight&hide_border=true&rank_icon=github&include_all_commits=true"
-    alt="Github Stats"
-  />
-</a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img
-    height="170"
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=jeperico&theme=material-palenight&hide_border=true&short_numbers=true"
-    alt="Stats Streak"
-  />
-</a>
+<details open>
+  <summary><h2>📊 GitHub Activity Graph:</h2></summary>
+  
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img
+      alt="Activity Graph"
+      src="https://github-readme-activity-graph.vercel.app/graph/?username=jeperico&theme=material-palenight&point=FFFFFF&hide_border=true"
+    />
+  </a>
+</details>
 
-### 📊 GitHub Activity Graph:
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img
-    alt="Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph/?username=jeperico&theme=material-palenight&point=FFFFFF&hide_border=true"
-  />
-</a>
-
-### 📋 Template Repos:
-
-<div style="display: flex; gap: 20px;">
+<details>
+  <summary><h2>📋 Template Repositories:</h2></summary>
+  
   <a href="https://github.com/jeperico/template-nextjs">
     <img
       height="136"
@@ -77,7 +87,7 @@
       alt="Repo: template-nextjs"
     />
   </a>
-
+  
   <a href="https://github.com/jeperico/template-django">
     <img
       height="136"
@@ -85,4 +95,4 @@
       alt="Repo: template-django"
     />
   </a>
-</div>
+</details>
