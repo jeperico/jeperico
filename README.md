@@ -81,7 +81,7 @@
   <summary><h2>🎲 GitHub Contribs:</h2></summary>
   
   <img
-    src="./profile-3d-contrib/profile-night-green.svg"
+    src="./profile-3d-contrib/profile-night-view.svg"
     alt="GitHub 3d Contribs"
   />
 </details>
