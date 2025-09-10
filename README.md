@@ -86,22 +86,19 @@
   />
 </details>
 
-<details>
-  <summary><h2>📋 Template Repositories:</h2></summary>
-  
-  <a href="https://github.com/jeperico/template-nextjs">
-    <img
-      height="136"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=template-nextjs&theme=material-palenight&hide_border=true"
-      alt="Repo: template-nextjs"
-    />
-  </a>
-  
-  <a href="https://github.com/jeperico/template-django">
-    <img
-      height="136"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=template-django&theme=material-palenight&hide_border=true"
-      alt="Repo: template-django"
-    />
-  </a>
-</details>
+<h2>📋 Template Repositories:</h2>
+<a href="https://github.com/jeperico/template-nextjs">
+  <img
+    height="120"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=template-nextjs&theme=material-palenight&hide_border=true"
+    alt="Repo: template-nextjs"
+  />
+</a>
+
+<a href="https://github.com/jeperico/template-django">
+  <img
+    height="120"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=jeperico&repo=template-django&theme=material-palenight&hide_border=true"
+    alt="Repo: template-django"
+  />
+</a>
