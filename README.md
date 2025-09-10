@@ -37,14 +37,6 @@
       alt="Instagram Badge"
     />
   </a>
-
-  <a href="https://github.com/jeperico" target="_blank">
-    <img
-      src="https://img.shields.io/github/followers/jeperico?style=social"
-      height="24px"
-      alt="GitHub Follow Badge"
-    />
-  </a>
 </section>
 
 <h2>💻 GitHub Profile Stats:</h2>
@@ -61,15 +53,6 @@
     height="170"
     src="https://github-readme-streak-stats-eight.vercel.app/?user=jeperico&theme=material-palenight&hide_border=true&short_numbers=true"
     alt="Stats Streak"
-  />
-</a>
-
-<h2>📊 GitHub Activity Graph:</h2>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img
-    alt="Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph/?username=jeperico&theme=material-palenight&point=FFFFFF&hide_border=true"
   />
 </a>
 
