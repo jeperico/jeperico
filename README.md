@@ -47,43 +47,38 @@
   </a>
 </section>
 
-<details open>
-  <summary><h2>💻 GitHub Profile Stats:</h2></summary>
+<h2>💻 GitHub Profile Stats:</h2>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      height="170"
-      src="https://github-readme-stats.vercel.app/api?username=jeperico&show_icons=true&theme=material-palenight&hide_border=true&rank_icon=github&include_all_commits=true"
-      alt="Github Stats"
-    />
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img
-      height="170"
-      src="https://github-readme-streak-stats-eight.vercel.app/?user=jeperico&theme=material-palenight&hide_border=true&short_numbers=true"
-      alt="Stats Streak"
-    />
-  </a>
-</details>
-
-<details open>
-  <summary><h2>📊 GitHub Activity Graph:</h2></summary>
-  
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img
-      alt="Activity Graph"
-      src="https://github-readme-activity-graph.vercel.app/graph/?username=jeperico&theme=material-palenight&point=FFFFFF&hide_border=true"
-    />
-  </a>
-</details>
-
-<details>
-  <summary><h2>🎲 GitHub Contribs:</h2></summary>
-  
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img
-    src="./profile-3d-contrib/profile-night-view.svg"
-    alt="GitHub 3d Contribs"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=jeperico&show_icons=true&theme=material-palenight&hide_border=true&rank_icon=github&include_all_commits=true"
+    alt="Github Stats"
   />
+</a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img
+    height="170"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=jeperico&theme=material-palenight&hide_border=true&short_numbers=true"
+    alt="Stats Streak"
+  />
+</a>
+
+<h2>📊 GitHub Activity Graph:</h2>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img
+    alt="Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph/?username=jeperico&theme=material-palenight&point=FFFFFF&hide_border=true"
+  />
+</a>
+
+<details><summary><h2>🎲 GitHub Contribs:</h2></summary>
+
+<img
+  src="./profile-3d-contrib/profile-night-view.svg"
+  alt="GitHub 3d Contribs"
+/>
 </details>
 
 <h2>📋 Template Repositories:</h2>
