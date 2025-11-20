@@ -1,45 +1,7 @@
-<img
-  src="/assets/banner.png"
-  alt="Banner em preto e roxo, com uma foto centralizada, redes sociais e cargo a direita e nome a esquerda"
-/>
+![Banner em preto e roxo, com uma foto centralizada, redes sociais e cargo à direita e nome à esquerda](/assets/banner.png)
 
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=5000&pause=1000&color=FFF&vCenter=true&width=600&lines=Hello!!!;My+name+is+Jo%C3%A3o+Eduardo+P%C3%A9rico!;I'm+a+web+developer!"
-      alt="Typing SVG"
-      />
-  </a>
-</h1>
 
-<section>
-  <a href="mailto:joaoeperico@gmail.com" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      height="24px"
-      alt="Gmail Badge"
-    />
-  </a>
-
-  <a href="https://br.linkedin.com/in/jo%C3%A3o-eduardo-p%C3%A9rico-981967256" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      height="24px"
-      alt="LinkedIn Badge"
-    />
-  </a>
-
-  <a href="https://www.instagram.com/_jeperico_/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      height="24px"
-      alt="Instagram Badge"
-    />
-  </a>
-</section>
-
-<h2>💻 GitHub Profile Stats:</h2>
+## 💻 GitHub Profile Stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
@@ -56,15 +18,8 @@
   />
 </a>
 
-<details><summary><h2>🎲 GitHub Contribs:</h2></summary>
 
-<img
-  src="./profile-3d-contrib/profile-night-view.svg"
-  alt="GitHub 3d Contribs"
-/>
-</details>
-
-<h2>📋 Template Repositories:</h2>
+## 📋 Template Repositories:
 <a href="https://github.com/jeperico/template-nextjs">
   <img
     height="120"
@@ -80,3 +35,11 @@
     alt="Repo: template-django"
   />
 </a>
+
+<details><summary><h2>🎲 GitHub Contribs:</h2></summary>
+
+<img
+  src="./profile-3d-contrib/profile-night-view.svg"
+  alt="GitHub 3d Contribs"
+/>
+</details>
